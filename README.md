@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm Varsha Bijish Banu, an aspiring data analyst with experience in data engineering. I specialize in utilizing Python, SQL, Tableau, Power BI, AWS, PySpark, and conducting big data analysis. With a strong foundation in data analytics and 2 years of business analytics experience, I'm passionate about deriving insights and making data-driven decisions. Currently securing a Postgraduate Diploma in Data Science from IIIT Bangalore, India, and pursuing a Master of Science in Data Science from Liverpool John Moores University, England. Excited to collaborate and contribute to impactful project
-<iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
-
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varsha_vb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/varsha-bijish-4696a6288) 
