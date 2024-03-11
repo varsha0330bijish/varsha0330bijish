@@ -1,9 +1,9 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <br><br>
-# <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="50" /> About Me:  
+# <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="50" /> Hello there, I am Varsha Bijish Banu:  
 <br><br>
-I'm Varsha Bijish Banu, an aspiring data analyst with experience in data engineering. I specialize in utilizing Python, SQL, Tableau, Power BI, AWS, PySpark, and conducting big data analysis. With a strong foundation in data analytics and 2 years of business analytics experience, I'm passionate about deriving insights and making data-driven decisions. Currently securing a Postgraduate Diploma in Data Science from IIIT Bangalore, India, and pursuing a Master of Science in Data Science from Liverpool John Moores University, England. Excited to collaborate and contribute to impactful project   
+ 👋 **Aspiring data analyst specializing in data analysis and data engineering, with a passion for making data-driven decisions. Two years of experience in business analytics. Currently Secured Postgraduate Diploma in Data Science from IIIT Bangalore, India, and  pursuing  Master of Science in Data Science from Liverpool John Moores University, England. Excited to collaborate on impactful projects!  🚀 #DataScience #Analytics #BigData** 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="70"> Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varsha_vb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/varsha-bijish-4696a6288) 
